@@ -12,7 +12,6 @@ AI
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python">
   <img src="https://img.shields.io/badge/Markdown-Documentation-000000?style=flat-square&logo=markdown">
   <img src="https://img.shields.io/badge/AI-Tools-ff69b4?style=flat-square">
   <img src="https://img.shields.io/badge/Images-Gratuit-green?style=flat-square">
