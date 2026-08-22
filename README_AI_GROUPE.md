@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI-GROUPE;Alliance+Intelligence+Artificielle;Plus+de+1000+outils+et+menus;Génération+d'images+gratuite;Crédits+%26+Ressources+IA" alt="AI-GROUPE Typing" />
-</p>
+AI
+
+<img width="1248" height="832" alt="OIG3" src="https://github.com/user-attachments/assets/966f9f7f-1cce-44c1-affd-65a18d2329fb" />
+
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/AI--GROUPE-v1.0.0-00F7FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"></a>
@@ -43,8 +44,6 @@ AI-GROUPE organise ses ressources en **20 catégories principales**, chacune con
 | 18 | Dataset & Ressources d'Entraînement | 50 | Kaggle, UCI, Papers With Code |
 | 19 | Communautés & Forums IA | 40 | Discord, Reddit, GitHub |
 | 20 | Crédits & Remerciements | 50 | Auteurs, chercheurs, projets inspirants |
-
-**Total : 1000+ menus et ressources documentés.**
 
 ---
 
@@ -334,7 +333,7 @@ copies or substantial portions of the Software.
 
 - 🐦 Twitter/X : `@HackerTchadien`
 - 💬 Telegram : `AI_GROUPE_Community`
-- 📧 Email : `contact@aigroupe.td`
+- 📧 Email : `abd736988@gmail.com`
 - 🌐 Site web : `https://aigroupe.td`
 
 <p align="center">
