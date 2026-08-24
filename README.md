@@ -20,6 +20,7 @@ AI
 ---
 
 AI-GROUPE organise ses ressources en **20 catégories principales**, chacune contenant **50+ outils ou options**, avec sous-menus dynamiques.
+<img width="1248" height="832" alt="OIG4 (2)" src="https://github.com/user-attachments/assets/080cbafe-6fa7-41b6-a5f8-c5d3073cc36c" />
 
 | # | Catégorie | Menus estimés | Description |
 |---|-----------|---------------|-------------|
